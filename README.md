@@ -1,0 +1,1 @@
+# Simple_School_management_system
